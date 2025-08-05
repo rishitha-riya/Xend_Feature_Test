@@ -36,7 +36,7 @@ WebUI.click(findTestObject('Object Repository/Leave_request/Emp_list'))
 
 // Get the list of all employee elements
 List AllEmployees_List = WebUiCommonHelper.findWebElements(findTestObject('Object Repository/Leave_request/Dropdown_list'), 5)
-println 'Find ttoal Employees in the List : '+ AllEmployees_List.get(0)
+println 'Find ttoal Employees in the List11 : '+ AllEmployees_List.get(0)
 
 // Check if the list is not empty
 if (!AllEmployees_List.isEmpty()) {
