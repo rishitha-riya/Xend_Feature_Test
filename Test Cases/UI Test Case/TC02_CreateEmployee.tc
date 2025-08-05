@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_CreateEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e115d7f3-445a-46fc-abc0-da6144d0a71c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bcaa6b06-004d-4c58-960d-384c365df199</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['ID', 'FULL NAME', 'EMAIL ADDRESS', 'MOBILE NUMBER', 'GENDER', 'JOB TYPE', 'QUALIFICATION', 'DESIGNATION', 'DEPARTMENT', 'BLOOD GROUP', 'MARITAL STATUS', 'DATE OF JOINING', 'PAN NO.', 'LOCATION', 'AADHAR NO.', 'DATE OF BIRTH', 'STATUS', 'ACTIONS']
+</defaultValue>
+      <description></description>
+      <id>bcaa6b06-004d-4c58-960d-384c365df199</id>
+      <masked>false</masked>
+      <name>HeaderList</name>
+   </variable>
+</TestCaseEntity>

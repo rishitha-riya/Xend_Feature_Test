@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_UserRoleCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>435c49df-705c-41c7-b785-d8bc3c6b203f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5ef6f62-067c-4a0b-a11a-4364fa0d901a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>42a80221-c70d-4c58-8c42-57bc6fbecc57</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db35c5a7-3060-4e26-8bec-87610295756e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['Profile', 'Users', 'Roles', 'Departments', 'Designations', 'Locations', 'Devices', 'Approvals', 'App Config']</defaultValue>
+      <description></description>
+      <id>a5ef6f62-067c-4a0b-a11a-4364fa0d901a</id>
+      <masked>false</masked>
+      <name>Tabs</name>
+   </variable>
+   <variable>
+      <defaultValue>['First Name', 'Last Name', 'Email', 'Roles', 'Associated Locations']</defaultValue>
+      <description></description>
+      <id>42a80221-c70d-4c58-8c42-57bc6fbecc57</id>
+      <masked>false</masked>
+      <name>EditUserList</name>
+   </variable>
+   <variable>
+      <defaultValue>'123upagnariyareddy'</defaultValue>
+      <description></description>
+      <id>db35c5a7-3060-4e26-8bec-87610295756e</id>
+      <masked>false</masked>
+      <name>GmailPassword</name>
+   </variable>
+</TestCaseEntity>

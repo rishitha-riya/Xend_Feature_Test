@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_ATT_REG</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26836b14-e9d5-4b00-9ce6-baf26df2d7d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1a11033-c61c-44f8-ad3a-921e288230f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['Employee']</defaultValue>
+      <description></description>
+      <id>d1a11033-c61c-44f8-ad3a-921e288230f8</id>
+      <masked>false</masked>
+      <name>SelectionList</name>
+   </variable>
+</TestCaseEntity>

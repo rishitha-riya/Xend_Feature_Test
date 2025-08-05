@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Employees_EnterPersonalInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b9d87fd-140f-4608-b1d7-1aa479e07e0c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>735e3ec3-d6c8-4be8-9d67-dd552ef70a95</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['Gender', 'Marital Status']</defaultValue>
+      <description></description>
+      <id>735e3ec3-d6c8-4be8-9d67-dd552ef70a95</id>
+      <masked>false</masked>
+      <name>SelectionList</name>
+   </variable>
+</TestCaseEntity>
